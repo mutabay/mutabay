@@ -1,6 +1,4 @@
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafatayyipbayram/)
-
-<h1>👋 Hi, welcome</h1>
+<h1>👋 Hi </h1>
 
 <p>
 I'm Mustafa Tayyip Bayram, a computer science graduate with a broad interest in
@@ -21,8 +19,12 @@ If something looks useful or interesting to you, feel free to explore.
 ---
 
 ## 📊 GitHub Overview
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mutabay&show_icons=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutabay&layout=compact&hide_border=true"/>
+<img height="160em"
+     src="https://github-readme-stats.vercel.app/api?username=mutabay&show_icons=true&hide_border=true&cache_seconds=21600"/>
+
+![Last Commit](https://img.shields.io/github/last-commit/mutabay/DocuQuery)
+![Language](https://img.shields.io/github/languages/top/mutabay/DocuQuery)
+<img src="https://raw.githubusercontent.com/mutabay/mutabay/main/github-metrics.svg" alt="GitHub Metrics"/>
 
 ---
 
