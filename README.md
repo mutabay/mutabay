@@ -18,14 +18,7 @@ If something looks useful or interesting to you, feel free to explore.
 
 ---
 
-## 📊 GitHub Overview
-<img height="160em"
-     src="https://github-readme-stats.vercel.app/api?username=mutabay&show_icons=true&hide_border=true&cache_seconds=21600"/>
-
-![Last Commit](https://img.shields.io/github/last-commit/mutabay/DocuQuery)
-![Language](https://img.shields.io/github/languages/top/mutabay/DocuQuery)
-<img src="https://raw.githubusercontent.com/mutabay/mutabay/main/github-metrics.svg" alt="GitHub Metrics"/>
-
+<p> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutabay&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p>
 ---
 
 ## 🔗 Links
