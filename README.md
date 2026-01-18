@@ -19,7 +19,6 @@ If something looks useful or interesting to you, feel free to explore.
 ---
 
 <p> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutabay&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p>
----
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/mustafatayyipbayram/)
