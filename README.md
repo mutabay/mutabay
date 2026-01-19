@@ -8,7 +8,7 @@ I'm Mustafa Tayyip Bayram, a computer science graduate with a broad interest in
 </p>
 
 <p>
-This GitHub profile collects projects I’ve worked on during my studies and personal development.
+This GitHub profile collects projects I’ve worked on during my private personal development time and studies.
 They span areas such as web development, IoT and embedded Linux, machine learning,
 natural language processing, and computer vision.
 Some repositories are exploratory or educational by nature, others are more structured project work.
@@ -20,4 +20,9 @@ If something looks useful or interesting to you, feel free to explore.
 
 ---
 
-<p> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutabay&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> </p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=furkaano&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkaano&layout=compact&hide_border=true&theme=radical&langs_count=8" />
+</div>
