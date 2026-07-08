@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a computer scientist with a background in software engineering and applied AI. My work spans software engineering, distributed systems, data engineering, and AI, but I enjoy exploring many areas of computer science to better understand how complex systems are designed and built.
+I'm a computer scientist with a background in software engineering and applied AI. My work focuses on software engineering, distributed systems, data engineering, and AI, but I enjoy exploring many areas of computer science to better understand how complex systems are designed and built.
 
 ## Projects
 
