@@ -4,8 +4,8 @@
 
 ## About Me
 
-Hi, I'm Mustafa Tayyip Bayram. I'm a computer science graduate with interests in AI systems, software engineering, and data-driven applications.
+I'm a computer scientist with a background in software engineering and applied AI. My work spans software engineering, distributed systems, data engineering, and AI, but I enjoy exploring many areas of computer science to better understand how complex systems are designed and built.
 
 ## Projects
 
-This GitHub profile showcases projects I've worked on during my personal development time and studies. They span areas such as web development, IoT and embedded Linux, machine learning, natural language processing, and computer vision.
+The repositories here reflect what I've worked on over the years, including research, personal projects, university work, and technical explorations. Some were developed to solve practical problems, while others were built to understand a concept or evaluate an idea through implementation. Together, they represent both my professional work and my continuous learning as a computer scientist.
