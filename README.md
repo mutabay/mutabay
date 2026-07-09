@@ -12,5 +12,5 @@ I'm a computer scientist with a background in software engineering and applied A
 
 ## Projects
 
-The repositories here reflect what I've worked on over the years, including research, personal projects, university work, and technical explorations. Some were developed to solve practical problems, while others were built to understand a concept or evaluate an idea through implementation. Together, they represent both my professional work and my continuous learning as a computer scientist.
+The repositories here reflect what I've worked on over the years, including research, personal projects, university work, and technical explorations. Some were developed to solve practical problems, while others were built to understand a concept or evaluate an idea through implementation. Together, they represent both my professional work and my continuous learning.
 
